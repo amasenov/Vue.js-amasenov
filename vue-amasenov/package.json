@@ -9,7 +9,7 @@
     "start": "webpack-dev-server --progress --colors --inline --content-base build"
   },
   "keywords": [],
-  "author": "",
+  "author": "AM Asenov",
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^0.28.4",
